@@ -1,0 +1,16 @@
+{
+    "blogs": [
+        {
+            "title": "My First Blog",
+            "body": "why do we use it?\nIt is a long established fact that a reader will be distracted",
+            "author": "Hayley",
+            "id": 1
+        },
+        {
+          "title": "Opening Party!",
+          "body": "why do we use it?\nIt is a long established fact that a reader will be distracted",
+          "author": "Rebecca",
+          "id": 2
+        }
+    ]
+}
